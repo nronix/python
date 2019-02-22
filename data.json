@@ -1,0 +1,3883 @@
+[{
+	"StudentExamQuestionID": 5227442,
+	"QuestionID": 11386,
+	"QuestionNo": 1,
+	"QuestionType": "Single Answer Question",
+	"Question": "You are given three coins: one has heads on both faces, the second has tails on both faces, and the third has a head on one face and a tail on the other. You choose a coin at random and toss it, and it comes up heads. The probability that the other face is tails is",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45683",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45682,
+		"Option": "1/4",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45683,
+		"Option": "1/3",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45684,
+		"Option": "1/2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45685,
+		"Option": "2/3",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227443,
+	"QuestionID": 11400,
+	"QuestionNo": 2,
+	"QuestionType": "Single Answer Question",
+	"Question": "A box contains 25 parts of which 10 are defective. Two parts are being drawn simultaneously in a random manner from the box. The probability of both the parts being non-defective",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45738",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45738,
+		"Option": "7/20",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45739,
+		"Option": "42/125",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45740,
+		"Option": "25/29",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45741,
+		"Option": "5/9",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227444,
+	"QuestionID": 11403,
+	"QuestionNo": 3,
+	"QuestionType": "Single Answer Question",
+	"Question": "If the list of letters, P, R, S, T, U is an arithmetic sequence, which of the following are also in arithmetic sequence?&#160;<div><br/></div><div>I. 2P,2R,2S,2T,2U&#160;</div><div>II. P-3,R-3,S-3,T-3,U-3&#160;</div><div>III. P&#178; ,R&#178; ,S&#178; ,T&#178; ,U&#178;&#10;</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45751",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45750,
+		"Option": "I Only",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45751,
+		"Option": "I and II",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45752,
+		"Option": "II and III",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45753,
+		"Option": "I and III",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227445,
+	"QuestionID": 11413,
+	"QuestionNo": 4,
+	"QuestionType": "Single Answer Question",
+	"Question": "A man can row at 8 km per hour in still water. If it takes him thrice as long to row upstream as to row downstream, then find the stream velocity in km per hour.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45792",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45790,
+		"Option": "1",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45791,
+		"Option": "2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45792,
+		"Option": "4",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45793,
+		"Option": "3",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227446,
+	"QuestionID": 11414,
+	"QuestionNo": 5,
+	"QuestionType": "Single Answer Question",
+	"Question": "A batch of one hundred bulbs is inspected by testing four randomly chosen bulbs. The batch is rejected if even one of the bulbs is defective. A batch typically has five defective bulbs. The probability that the current batch is accepted is _________",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45794",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45794,
+		"Option": "0.8145",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45795,
+		"Option": "0.7",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45796,
+		"Option": "0.6",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45797,
+		"Option": "0.5",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227447,
+	"QuestionID": 11418,
+	"QuestionNo": 6,
+	"QuestionType": "Single Answer Question",
+	"Question": "A dance programme is scheduled for 10.00 a.m. Some students are participating in the programme and they need to come an hour earlier than the start of the event. These students should be accompanied by a parent. Other students and parents should come on time for the programme. The instruction you think that is appropriate for this is",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45811",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45810,
+		"Option": "Students should come at 9.00 a.m. and parents should come at 10.00 a.m",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45811,
+		"Option": "Participating students should come at 9.00 a.m. accompanied by a parent, and other parents and students should come by 10.00 a.m",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45812,
+		"Option": "Students who are not participating should come by 10.00 a.m. and they should not bring their parents. Participating students should come at 9.00 a.m",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45813,
+		"Option": "Participating students should come before 9.00 a.m. Parents who accompany them should come at 9.00 a.m. All others should come at 10.00 a.m",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227448,
+	"QuestionID": 11543,
+	"QuestionNo": 7,
+	"QuestionType": "Single Answer Question",
+	"Question": "The volume under the surface z(x, y) = x + y and above the triangle in the x-y plane defined by {0 = y = x and 0=  x = 12 } is___________.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46310",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46310,
+		"Option": "864",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46311,
+		"Option": "872",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46312,
+		"Option": "1024",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46313,
+		"Option": "512",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227449,
+	"QuestionID": 11551,
+	"QuestionNo": 8,
+	"QuestionType": "Single Answer Question",
+	"Question": "Let X be a random variable which is uniformly chosen from the set of positive odd numbers less than 100. The expectation E[X]is __________.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46344",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46342,
+		"Option": "100",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46343,
+		"Option": "200",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46344,
+		"Option": "50",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46345,
+		"Option": "10",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227450,
+	"QuestionID": 11574,
+	"QuestionNo": 9,
+	"QuestionType": "Single Answer Question",
+	"Question": "Let X&#1013; {0,1}and Y&#1013;{ 0,1}, be two independent binary random variables. If P (X = 0) = p and P(Y = 0) = q, then P( X+ Y&#8805; 1)  is equal to",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46437",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46434,
+		"Option": "pq+(1-p)(1-q)",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46435,
+		"Option": "pq",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46436,
+		"Option": "p(1-q)",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46437,
+		"Option": "1-pq",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227451,
+	"QuestionID": 11602,
+	"QuestionNo": 10,
+	"QuestionType": "Single Answer Question",
+	"Question": "Let X be a zero mean unit variance Gaussian random variable. E[|X|] is equal to _____",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "G.Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46549",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46546,
+		"Option": "0.2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46547,
+		"Option": "0.4",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46548,
+		"Option": "0.6",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46549,
+		"Option": "0.8",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227452,
+	"QuestionID": 342,
+	"QuestionNo": 11,
+	"QuestionType": "Single Answer Question",
+	"Question": "Three types of tea namely a,b,c costs Rs. 95/kg,100/kg and70/kg respectively. How many kgs of each should be blended to produce 100 kg of mixture worth Rs.90/kg, given that the quantities of b and c are equal ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1366",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1365,
+		"Option": "70,15,15",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1366,
+		"Option": "50,25,25",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1367,
+		"Option": "60,20,20",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1368,
+		"Option": "40,30,30",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227453,
+	"QuestionID": 347,
+	"QuestionNo": 12,
+	"QuestionType": "Single Answer Question",
+	"Question": "A father is 30 years older than his son however he will be only thrice as old as the son after 5 years what is father's present age ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1385",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1385,
+		"Option": "40 yrs",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1386,
+		"Option": "30 yrs",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1387,
+		"Option": "50 yrs",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1388,
+		"Option": "<p>45 yrs</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227454,
+	"QuestionID": 348,
+	"QuestionNo": 13,
+	"QuestionType": "Single Answer Question",
+	"Question": "If on an item a company gives 25% discount, they earn 25% profit. If they now give 10% discount then what is the profit percentage ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1392",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1389,
+		"Option": "40%",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1390,
+		"Option": "55%",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1391,
+		"Option": "35%",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1392,
+		"Option": "30%",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227455,
+	"QuestionID": 349,
+	"QuestionNo": 14,
+	"QuestionType": "Single Answer Question",
+	"Question": "There are 200 questions in a 3 hr examination. Among these questions 50 are mathematics problems. It is suggested that twice as much time be spent on each math's problem as for each other question. How many minutes should be spent on mathematics problems ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1394",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1393,
+		"Option": "36",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1394,
+		"Option": "72",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1395,
+		"Option": "60",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1396,
+		"Option": "100",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227456,
+	"QuestionID": 351,
+	"QuestionNo": 15,
+	"QuestionType": "Single Answer Question",
+	"Question": "Two trains move in the same direction at 50 kmph and 32 kmph respectively. A man in the slower train observes that 15 seconds elapsed before the faster train completely passes by him. What is the length of faster train?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1402",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1401,
+		"Option": "100m",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1402,
+		"Option": "75m",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1403,
+		"Option": "120m",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1404,
+		"Option": "50m",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227457,
+	"QuestionID": 353,
+	"QuestionNo": 16,
+	"QuestionType": "Single Answer Question",
+	"Question": "A cylinder is 6 cms in diameter and 6 cms in height. If spheres of the same size are made from the material obtained, what is the diameter of each sphere?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1411",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1409,
+		"Option": "5 cms",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1410,
+		"Option": "2 cms",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1411,
+		"Option": "3 cms",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1412,
+		"Option": "4 cms",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227458,
+	"QuestionID": 354,
+	"QuestionNo": 17,
+	"QuestionType": "Single Answer Question",
+	"Question": "A man walks east and turns right and then from there to his left and then 45degrees to his right. In which direction did he go?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1415",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1413,
+		"Option": "North East",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1414,
+		"Option": "South West",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1415,
+		"Option": "North West",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1416,
+		"Option": "South East",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227459,
+	"QuestionID": 356,
+	"QuestionNo": 18,
+	"QuestionType": "Single Answer Question",
+	"Question": "If on an item a company gives 25% discount, they earn 25% profit. If they now give 10% discount then what is the profit percentage ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1424",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1421,
+		"Option": "40%",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1422,
+		"Option": "55%",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1423,
+		"Option": "35%",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1424,
+		"Option": "30%",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227460,
+	"QuestionID": 360,
+	"QuestionNo": 19,
+	"QuestionType": "Single Answer Question",
+	"Question": "A and B together can complete a work in 12 days. A alone can complete it in 20 days. If B does the work only for half a day daily, then in how many days A and B together will complete the work?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1439",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1437,
+		"Option": "10 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1438,
+		"Option": "11 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1439,
+		"Option": "15 days",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1440,
+		"Option": "20 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227461,
+	"QuestionID": 367,
+	"QuestionNo": 20,
+	"QuestionType": "Single Answer Question",
+	"Question": "The total cost price of two watches is Rs.840. One is sold at a profit of 16% and other at a loss of 12%. There is no loss or gain in the whole transaction. The cost price of the watch on which the shopkeeper gains is ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Quantitative Aptitude",
+	"Topic": "General Aptitude",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "1465",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 1465,
+		"Option": "Rs 360",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1466,
+		"Option": "Rs 370",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1467,
+		"Option": "Rs 380",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 1468,
+		"Option": "Rs 390",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227462,
+	"QuestionID": 11668,
+	"QuestionNo": 21,
+	"QuestionType": "Single Answer Question",
+	"Question": "The given statement is followed by some courses of action. Assuming the statement to be true, decide the correct option.&#160;<div><br/></div><div>Statement: There has been a significant drop in the water level in the lakes supplying water to the city.</div><div>&#160;Course of action:(I) The water supply authority should impose a partial cut in supply to tackle the situation.&#160;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;(II) The government should appeal to all the residents through mass media for minimal use of water.</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;(III)The government should ban the water supply in lower areas</div>",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46810",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46810,
+		"Option": "Statements I and II follow.",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46811,
+		"Option": "Statements I and III follow",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46812,
+		"Option": "Statements II and III follow.\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46813,
+		"Option": "All statements follow",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227463,
+	"QuestionID": 11671,
+	"QuestionNo": 22,
+	"QuestionType": "Single Answer Question",
+	"Question": "What is the next number in the series? 12 35 81 173 357 ____",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46822",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46822,
+		"Option": "725",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46823,
+		"Option": "575",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46824,
+		"Option": "779",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46825,
+		"Option": "525",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227464,
+	"QuestionID": 11673,
+	"QuestionNo": 23,
+	"QuestionType": "Single Answer Question",
+	"Question": "Geneticists say that they are very close to confirming the genetic roots of psychiatric illnesses such as depression and schizophrenia, and consequently, that doctors will be able to eradicate these diseases through early identification and gene therapy. On which of the following assumptions does the statement above rely?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46831",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46830,
+		"Option": "Strategies are now available for eliminating psychiatric illnesses ",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46831,
+		"Option": "Certain psychiatric illnesses have a genetic basis",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46832,
+		"Option": "All human diseases can be traced back to genes and how they are expressed",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46833,
+		"Option": "In the future, genetics will become the only relevant field for identifying psychiatric illnesses",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227465,
+	"QuestionID": 11674,
+	"QuestionNo": 24,
+	"QuestionType": "Single Answer Question",
+	"Question": "If ROAD is written as URDG, then SWAN should be written as:",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46835",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46834,
+		"Option": "VXDQ",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46835,
+		"Option": "VZDQ",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46836,
+		"Option": "VZDP",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46837,
+		"Option": "UXDQ",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227466,
+	"QuestionID": 11677,
+	"QuestionNo": 25,
+	"QuestionType": "Single Answer Question",
+	"Question": "Alexander turned his attention towards India, since he had conquered Persia. Which one of the statements below is logically valid and can inferred from the above sentence?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46846",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46846,
+		"Option": "Alexander would not have turned his attention towards India had he not conquered Persia.",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46847,
+		"Option": "Alexander was not ready to rest on his laurels, and wanted to march to India ",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46848,
+		"Option": "Alexander was completely in control of his army and could command it to move towards\r\n India ",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46849,
+		"Option": "Since Alexander’s kingdom extended to Indian borders after the conquest of Persia, he\r\n was keen to move further",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227467,
+	"QuestionID": 11682,
+	"QuestionNo": 26,
+	"QuestionType": "Single Answer Question",
+	"Question": "“India is a country of rich heritage and cultural diversity.” Which one of the following facts best supports the claim made in the above sentence?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46868",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46866,
+		"Option": "India is a union of 28 states and 7 union territories.",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46867,
+		"Option": "India has a population of over 1.1 billion.",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46868,
+		"Option": "India is home to 22 official languages and thousands of dialects.",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46869,
+		"Option": "The Indian cricket team draws players from over ten states.",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227468,
+	"QuestionID": 11683,
+	"QuestionNo": 27,
+	"QuestionType": "Single Answer Question",
+	"Question": "Based on the given statements, Select the most appropriate option to solve the given question.&#160;<div><br/></div><div>What will be the total weight of 10 poles each of same weight?&#160;</div><div>Statements:&#10;(I) One fourth of the weight of a pole is 5 kg</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;(II) The total weight of these poles is 160 kg more than the total weight of two poles.&#10;</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46872",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46870,
+		"Option": "Statement II alone is not sufficient\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46871,
+		"Option": "Statement I alone is not sufficient",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46872,
+		"Option": "Either I or II alone is sufficient",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46873,
+		"Option": "Both statements I and II together are not sufficient.",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227469,
+	"QuestionID": 11692,
+	"QuestionNo": 28,
+	"QuestionType": "Single Answer Question",
+	"Question": "Consider the following statements:&#160;<div><br/></div><div>P: Good mobile phones are not cheap&#160;</div><div>Q: Cheap mobile phones are not good&#160;</div><div><br/></div><div>L: P implies Q</div><div>&#160;M: Q implies P&#160;</div><div>N: P is equivalent to Q</div><div><br/></div><div>&#160;Which one of the following about L, M, and N is CORRECT?</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46909",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46906,
+		"Option": "Only L is TRUE",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46907,
+		"Option": "Only M is TRUE",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46908,
+		"Option": "Only N is TRUE",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46909,
+		"Option": "L, M and N are TRUE",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227470,
+	"QuestionID": 13131,
+	"QuestionNo": 29,
+	"QuestionType": "Single Answer Question",
+	"Question": "The sum of n terms of the series 4+44+444+.... is",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "51660",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 51658,
+		"Option": "(4/81)[(10ⁿ.10) -9n-1]",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 51659,
+		"Option": "(4/81)[(10ⁿ/10) -9n-1]",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 51660,
+		"Option": "(4/81)[(10ⁿ.10) -9n-10]",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 51661,
+		"Option": "(4/81)[(10ⁿ/10) -9n-10]",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227471,
+	"QuestionID": 13132,
+	"QuestionNo": 30,
+	"QuestionType": "Single Answer Question",
+	"Question": "The horse has played a little known but very important role in the field of medicine. Horses were injected with toxins of diseases until their blood built up immunities. Then a serum was made from their blood. Serums to fight with diphtheria and tetanus were developed this way. It can be inferred from the passage that horses were",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "L.Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "51663",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 51662,
+		"Option": "given immunity to diseases",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 51663,
+		"Option": "generally quite immune to diseases",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 51664,
+		"Option": "given medicines to fight toxins",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 51665,
+		"Option": "given diphtheria and tetanus serums",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227472,
+	"QuestionID": 560,
+	"QuestionNo": 31,
+	"QuestionType": "Single Answer Question",
+	"Question": "A tennis marker is trying to put together a team of four players for a tennis tournament out of seven available. Males - a, b and c; females &ndash; m, n, o and p. All players are of equal ability and there must be at least two males in the team. For a team of four, all players must be able to play with each other under the following restrictions: b should not play with m, c should not play with p, and a should not play with o. Which of the following statements must be false?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "2239",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 2237,
+		"Option": "b and p cannot be selected together",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2238,
+		"Option": "c and o cannot be selected together",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2239,
+		"Option": "c and n cannot be selected",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2240,
+		"Option": "none of these",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227473,
+	"QuestionID": 592,
+	"QuestionNo": 32,
+	"QuestionType": "Single Answer Question",
+	"Question": "X 's&#160;father's wife's father's granddaughter uncle will be related to X as",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "2367",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 2365,
+		"Option": "Son",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2366,
+		"Option": "Nephew",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2367,
+		"Option": "Uncle",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2368,
+		"Option": "Grandfather",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227474,
+	"QuestionID": 614,
+	"QuestionNo": 33,
+	"QuestionType": "Single Answer Question",
+	"Question": "If 'fork' is called 'plate', 'plate' is called 'knife', 'knife' is called 'jug', 'jug' is called 'glass', 'glass' is called 'cup' and 'cup' is called 'fork', by what do we cut fruit?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "2454",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 2453,
+		"Option": "Spoon",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2454,
+		"Option": "Jug",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2455,
+		"Option": "Glass",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2456,
+		"Option": "Saucer",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227475,
+	"QuestionID": 620,
+	"QuestionNo": 34,
+	"QuestionType": "Single Answer Question",
+	"Question": "Geeta is elder to Seeta but not to Deepa. Gayatri is younger than Deepa. No one is elder to Fatima. Who is youngest of them all?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "2480",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 2477,
+		"Option": "Seeta",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2478,
+		"Option": "Geeta",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2479,
+		"Option": "Gayatri",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 2480,
+		"Option": "none of these",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227476,
+	"QuestionID": 7154,
+	"QuestionNo": 35,
+	"QuestionType": "Single Answer Question",
+	"Question": "A can do a piece of work in 10 days. B can do it in 15 days. C can do it in 20 days. They started the work together. A leaves off after 2 days  and  B leaves off after 4 days from the beginning. How long the work last? ",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28586",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28584,
+		"Option": "8 1/3 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28585,
+		"Option": "9 2/3 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28586,
+		"Option": "10 2/3 days",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28587,
+		"Option": "6 2/3 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227477,
+	"QuestionID": 7157,
+	"QuestionNo": 36,
+	"QuestionType": "Single Answer Question",
+	"Question": "Two blocks of ice when pressed together join to form one block because.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28598",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28596,
+		"Option": "of cold produced during pressure",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28597,
+		"Option": "of heat produced during pressure",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28598,
+		"Option": "melting point of ice decreased with increase in pressure",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28599,
+		"Option": "melting point of ice increases with increase in pressure",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227478,
+	"QuestionID": 7158,
+	"QuestionNo": 37,
+	"QuestionType": "Single Answer Question",
+	"Question": "A person starts from a point A and travels 3kms eastwards to B and then turns left and travels thrice that distance to reach C. He again turns left and travels five times the distance he covered between A and B and reaches his destination D. The shortest distance between the starting point and the destination is",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28601",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28600,
+		"Option": "12 km",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28601,
+		"Option": "15 km",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28602,
+		"Option": "16 km",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28603,
+		"Option": "18 km",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227479,
+	"QuestionID": 7160,
+	"QuestionNo": 38,
+	"QuestionType": "Single Answer Question",
+	"Question": "In a group of persons travelling in a bus 6 persons can speak French, 15 can speak Spanish and 6 can speak English. In that group, non can speak any other language. If 2 person in the group can speak two languages and one person can speak all the three languages, then how many person are there in the group?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28610",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28608,
+		"Option": "21",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28609,
+		"Option": "22",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28610,
+		"Option": "23",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28611,
+		"Option": "24",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227480,
+	"QuestionID": 7168,
+	"QuestionNo": 39,
+	"QuestionType": "Single Answer Question",
+	"Question": "What will be the difference between the sum of the odd digits and sum of the even digits in the number 857423",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28641",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28640,
+		"Option": "0",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28641,
+		"Option": "1",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28642,
+		"Option": "2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28643,
+		"Option": "4",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227481,
+	"QuestionID": 7170,
+	"QuestionNo": 40,
+	"QuestionType": "Single Answer Question",
+	"Question": "12 men can complete a work within 9 days. After 3 days they started the work 6 men joined them to replace 2 men. How many days will they take to complete the remaining work.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Logical Reasoning",
+	"Topic": "General Reasoning",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28651",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28648,
+		"Option": "4 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28649,
+		"Option": "2 1/2 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28650,
+		"Option": "2 days",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28651,
+		"Option": "4 1/2 days",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227482,
+	"QuestionID": 1168,
+	"QuestionNo": 41,
+	"QuestionType": "Single Answer Question",
+	"Question": "<p>For each statement there are three different sentences given below it. Pick out the sentence (s) that most appropriately convey (s) the meaning of the statement The number of that sentence or combination of sentences is the answer.&#10;</p><p>All our efforts were wasted due to the negligence of the clients.&#10;</p><p>(A) The negligence of the clients was responsible for making our efforts futile.&#10;</p><p>(B) Our efforts would have been fruitful had there been no negligence on the part of the clients.&#10;</p><p>(C) The negligence of the clients saved all our efforts from being wasted.</p>",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "4280",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 4278,
+		"Option": "Only A",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4279,
+		"Option": "Only B",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4280,
+		"Option": "Only A and B",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4281,
+		"Option": "Only B and C",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227483,
+	"QuestionID": 1173,
+	"QuestionNo": 42,
+	"QuestionType": "Single Answer Question",
+	"Question": "A person pretending to be somebody he is not",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "4301",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 4298,
+		"Option": "Magician",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4299,
+		"Option": "Rogue",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4300,
+		"Option": "Liar",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4301,
+		"Option": "Imposter",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227484,
+	"QuestionID": 1193,
+	"QuestionNo": 43,
+	"QuestionType": "Single Answer Question",
+	"Question": "<p>Choose the word which is the exact OPPOSITE of the given word.&#10;</p><p><strong>MORTAL</strong></p>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "4379",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 4378,
+		"Option": "Divine",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4379,
+		"Option": "Immortal",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4380,
+		"Option": "Spiritual",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4381,
+		"Option": "Eternal",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227485,
+	"QuestionID": 1241,
+	"QuestionNo": 44,
+	"QuestionType": "Single Answer Question",
+	"Question": "Rearrange the choices to find out whether there is any grammatical error in it. The error if any, will be in one part of the sentence. The number of that part is the answer.<p><br/></p><p>1) Taking care of yourself</p><p>2) cannot be</p><p>3) and should not be considered</p><p>4) as a selfish thing.</p>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "4580",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 4579,
+		"Option": "<p>1</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4580,
+		"Option": "<p>2</p>",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4581,
+		"Option": "<p>3</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4582,
+		"Option": "<p>4</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4583,
+		"Option": "No Error",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227486,
+	"QuestionID": 1246,
+	"QuestionNo": 45,
+	"QuestionType": "Single Answer Question",
+	"Question": "Rearrange the choices to find out whether there is any grammatical error in it. The error if any, will be in one part of the sentence. The number of that part is the answer.<div><br/><div><p>1) He thinks that</p><p>2) a popular magazine would like to</p><p>3) know what are other topics most</p><p>4) no people's minds</p></div></div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "4603",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 4602,
+		"Option": "<p>1</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4603,
+		"Option": "<p>2</p>",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4604,
+		"Option": "<p>3</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4605,
+		"Option": "<p>4</p>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 4606,
+		"Option": "No Error",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227487,
+	"QuestionID": 7193,
+	"QuestionNo": 46,
+	"QuestionType": "Single Answer Question",
+	"Question": "Find out the synonym of the given word:<div><br/></div><div>HUE</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28741",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28740,
+		"Option": "Seven colours",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28741,
+		"Option": "colour",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28742,
+		"Option": "stain",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28743,
+		"Option": "colour coated",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227488,
+	"QuestionID": 7196,
+	"QuestionNo": 47,
+	"QuestionType": "Single Answer Question",
+	"Question": "Find out the synonym of the given word :&#160;<div><br/></div><div>FIDELITY</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28752",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28752,
+		"Option": "reliability",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28753,
+		"Option": "trust",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28754,
+		"Option": "worthy",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28755,
+		"Option": "confident",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227489,
+	"QuestionID": 7198,
+	"QuestionNo": 48,
+	"QuestionType": "Single Answer Question",
+	"Question": "The judge declared judgment_____ the government orders",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28761",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28760,
+		"Option": "on",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28761,
+		"Option": "against",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28762,
+		"Option": "with",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28763,
+		"Option": "for",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227490,
+	"QuestionID": 7199,
+	"QuestionNo": 49,
+	"QuestionType": "Single Answer Question",
+	"Question": "Find out the Synonym of the given word:&#160;<div><br/></div><div>GLOSS</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28766",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28764,
+		"Option": "bright",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28765,
+		"Option": "hot",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28766,
+		"Option": "shine",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28767,
+		"Option": "light",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227491,
+	"QuestionID": 7202,
+	"QuestionNo": 50,
+	"QuestionType": "Single Answer Question",
+	"Question": "Government in which religions are honored",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "General Verbal Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "28778",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 28776,
+		"Option": "progressive",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28777,
+		"Option": "fanatic",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28778,
+		"Option": "secular",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 28779,
+		"Option": "non secular",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227492,
+	"QuestionID": 11858,
+	"QuestionNo": 51,
+	"QuestionType": "Single Answer Question",
+	"Question": "Choose the most appropriate phrase from the options given below to complete the following sentence.&#160;<div><br/></div><div>The aircraft_______ take off as soon as its flight plan was filed.</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "47574",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 47572,
+		"Option": "is allowed to",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47573,
+		"Option": "will be allowed to",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47574,
+		"Option": "was allowed to",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47575,
+		"Option": "has been allowed to",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227493,
+	"QuestionID": 11862,
+	"QuestionNo": 52,
+	"QuestionType": "Single Answer Question",
+	"Question": "Extreme focus on syllabus and studying for tests has become such a dominant concern of Indian students that they close their minds to anything _____ to the requirements of the exam ",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "47589",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 47588,
+		"Option": "related",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47589,
+		"Option": "extraneous",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47590,
+		"Option": "outside",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47591,
+		"Option": "useful",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227494,
+	"QuestionID": 11883,
+	"QuestionNo": 53,
+	"QuestionType": "Single Answer Question",
+	"Question": "Choose the most appropriate word from the options given below to complete the following sentence?&#160;<div><br/></div><div>If the athlete had wanted to come first in the race, he ___________several hours every day.</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "47673",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 47672,
+		"Option": "Should practice",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47673,
+		"Option": "Should have practised",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47674,
+		"Option": "Practised",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47675,
+		"Option": "Should be practicing",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227495,
+	"QuestionID": 11891,
+	"QuestionNo": 54,
+	"QuestionType": "Single Answer Question",
+	"Question": "Choose the word that is opposite in meaning to the word:&#160;<div><br/></div><div><b>Coherent</b></div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "47706",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 47704,
+		"Option": "sticky",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47705,
+		"Option": "well-connected",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47706,
+		"Option": "rambling",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 47707,
+		"Option": "friendly",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227496,
+	"QuestionID": 13686,
+	"QuestionNo": 55,
+	"QuestionType": "Single Answer Question",
+	"Question": "Extreme focus on syllabus and studying for test has become such a dominant concern of Indian students that this has closed their minds to anything ________ to the requirements of the exam",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "53879",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 53878,
+		"Option": "related",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53879,
+		"Option": "extraneous",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53880,
+		"Option": "outside",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53881,
+		"Option": "useful",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227497,
+	"QuestionID": 13688,
+	"QuestionNo": 56,
+	"QuestionType": "Single Answer Question",
+	"Question": "Choose the most appropriate word from the options given below to complete the following sentence&#160;<div><br/></div><div>The official answered _________ that the complaints of the citizen would be looked into.</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "53887",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 53886,
+		"Option": "respectably",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53887,
+		"Option": "respectfully",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53888,
+		"Option": "reputably",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53889,
+		"Option": "respectively",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227498,
+	"QuestionID": 13689,
+	"QuestionNo": 57,
+	"QuestionType": "Single Answer Question",
+	"Question": "Which word is not a synonym for the word vernacular?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "53892",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 53890,
+		"Option": "Regional",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53891,
+		"Option": "indigeneous",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53892,
+		"Option": "indigent",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 53893,
+		"Option": "colloquial",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227499,
+	"QuestionID": 13718,
+	"QuestionNo": 58,
+	"QuestionType": "Single Answer Question",
+	"Question": "The old city of Koenigsberg, which had a German majority population before World War 2,is now called Kaliningrad. After the events of the war, Kaliningrad is now a Russian territory and has a predominantly Russian population. It is bordered by the Baltic Sea on the north and the countries of Poland to the south and west and Lithuania to the east respectively.&#160;<div><br/></div><div>Which of the statements below can be inferred from this passage?</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "54007",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 54006,
+		"Option": "Kaliningrad was historically Russian in its ethnic make up",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54007,
+		"Option": "Kaliningrad is a part of Russia despite it not being contiguous with the rest of Russia",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54008,
+		"Option": "Koenigsberg was renamed Kaliningrad, as that was its original Russian name",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54009,
+		"Option": "Poland and Lithuania are on the route from Kaliningrad to the rest of Russia",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227500,
+	"QuestionID": 13719,
+	"QuestionNo": 59,
+	"QuestionType": "Single Answer Question",
+	"Question": "The number of people diagnosed with dengue fever (contracted from the bite of a mosquito) in north India is twice the number diagnosed last year. Municipal authorities have concluded that measures to control the mosquito population have failed in this region.&#160;<div><br/></div><div>Which one of the following statements, if true, does not contradict this conclusion?</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "54013",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 54010,
+		"Option": "A high proportion of the affected population has returned from neighboring countries where dengue is prevalent",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54011,
+		"Option": "More cases of dengue are now reported because of an increase in the Municipal Office’s administrative efficiency",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54012,
+		"Option": "Many more cases of dengue are being diagnosed this year since the introduction of a new and effective diagnostic test",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54013,
+		"Option": "The number of people with malarial fever (also contracted from mosquito bites) has increased this year",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227501,
+	"QuestionID": 13725,
+	"QuestionNo": 60,
+	"QuestionType": "Single Answer Question",
+	"Question": "After several defeats in wars, Robert Bruce went in exile and wanted to commit suicide. Just before committing suicide, he came across a spider attempting tirelessly to have its net. Time and again the spider failed but that did not deter it to refrain from making attempts. Such attempts by the spider made Bruce curious. Thus, Bruce started observing the near-impossible goal of the spider to have the net. Ultimately, the spider succeeded in having its net despite several failures. Such act of the spider encouraged Bruce not to commit suicide. And then, Bruce went back again and won many a battle, and the rest is history.&#160;<div><br/></div><div>Which one of the following assertions is best supported by the above information?</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Verbal Ability",
+	"Topic": "V.Ability",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "54037",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 54034,
+		"Option": "Failure is the pillar of success",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54035,
+		"Option": "Honesty is the best policy",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54036,
+		"Option": "Life begins and ends with adventures",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 54037,
+		"Option": "No adversity justifies giving up hope",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227502,
+	"QuestionID": 4482,
+	"QuestionNo": 61,
+	"QuestionType": "Single Answer Question",
+	"Question": "A float occupies 4 bytes. If the hexadecimal equivalent of these 4 bytes are A, B, C and D, then when this float is stored in memory in which of the following order do these bytes gets stored?",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "Computer Science",
+	"Topic": "C Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "17713",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 17710,
+		"Option": "0xABCD",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17711,
+		"Option": "ABCD",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17712,
+		"Option": "DCBA",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17713,
+		"Option": "Depends on big endian or little endian architecture",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227503,
+	"QuestionID": 4513,
+	"QuestionNo": 62,
+	"QuestionType": "Single Answer Question",
+	"Question": "If the two strings are identical, then strcmp() function returns ?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "C Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "17836",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 17834,
+		"Option": "-1",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17835,
+		"Option": "Yes",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17836,
+		"Option": "0",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17837,
+		"Option": "1",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227504,
+	"QuestionID": 4514,
+	"QuestionNo": 63,
+	"QuestionType": "Single Answer Question",
+	"Question": "Which of the following are unary operators in C?&#160;<pre>1. !&#160;</pre><pre>2. sizeof&#160;</pre><pre>3. ~&#160;</pre><pre>4. &amp;&amp;</pre>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "C Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "17841",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 17838,
+		"Option": "2,4",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17839,
+		"Option": "1,2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17840,
+		"Option": "1, 3",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17841,
+		"Option": "1, 2,3",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227505,
+	"QuestionID": 4525,
+	"QuestionNo": 64,
+	"QuestionType": "Single Answer Question",
+	"Question": "Which of the following sentences are correct about a for loop in a C program?&#160;<div>1: for loop works faster than a while loop.&#160;</div><div>2: All things that can be done using a for loop can also be done using a while loop.&#160;</div><div>3: for(;;); implements an infinite loop.&#160;</div><div>4: for loop can be used if we want statements in a loop get executed at least once.</div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "C Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "17885",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 17882,
+		"Option": "1,2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17883,
+		"Option": "2,3",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17884,
+		"Option": "1",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17885,
+		"Option": "2,3,4",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227506,
+	"QuestionID": 4537,
+	"QuestionNo": 65,
+	"QuestionType": "Single Answer Question",
+	"Question": "Which of the following statements correctly declare a function that receives a pointer to pointer to a pointer to a float and returns a pointer to a pointer to a pointer to a pointer to a float?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "C Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "17933",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 17930,
+		"Option": "float *fun(float**);",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17931,
+		"Option": "float **fun(float***);",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17932,
+		"Option": "float fun(float***);",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 17933,
+		"Option": "float ****fun(float***);",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227507,
+	"QuestionID": 11442,
+	"QuestionNo": 66,
+	"QuestionType": "Single Answer Question",
+	"Question": "<p>Consider the following programme in C language,</p><p># include&lt;stdio.h&gt;</p><p>main()</p><p>{</p><p>int i;</p><p>int * pi=&amp;i;</p><p>scanf (&#34;%d&#34;, pi) ;</p><p>printf (&#34;%d \\ n&#34;, i+ 5) ;</p><p>}&#160;</p><p>which one the following statement is TRUE?</p><p><br/></p>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45909",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45906,
+		"Option": "Compilation fails",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45907,
+		"Option": "Execution results in a run-time error",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45908,
+		"Option": "On execution, the value printed is 5 more than the address of variable i",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45909,
+		"Option": "On execution, the value printed is 5 more than the integer value entered",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227508,
+	"QuestionID": 11451,
+	"QuestionNo": 67,
+	"QuestionType": "Single Answer Question",
+	"Question": "Let L be a language and &#160;L&#65056; &#160;be its complement. Which of the following is NOT a viable possibility?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "45944",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 45942,
+		"Option": "Neither L nor L&#65056; is recursively enumerable (r.e.)",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45943,
+		"Option": "One of L and L︠ is r.e. but not recursive; the other is not r.e",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45944,
+		"Option": "Both L and L︠ are r.e. but not recursive",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 45945,
+		"Option": "Both L and L︠ are recursive",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227509,
+	"QuestionID": 11472,
+	"QuestionNo": 68,
+	"QuestionType": "Single Answer Question",
+	"Question": "Consider a software program that is artificially seeded with 100 faults. While testing this program, 159 faults are detected, out of which 75 faults are from those artificially seeded faults. Assuming that both are and seeded faults are of same nature and have same distribution, the estimated number of undetected real fault is _____ . \r\n",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46028",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46026,
+		"Option": "25",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46027,
+		"Option": "234",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46028,
+		"Option": "175",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46029,
+		"Option": "81",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227510,
+	"QuestionID": 11477,
+	"QuestionNo": 69,
+	"QuestionType": "Single Answer Question",
+	"Question": "Assume that a mergesort algorithm in the worst case takes 30 second for an input of size 64. Which of the following most closely approximates the maximum input size of a problem that can be solved in 6 minutes? \r\n",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46047",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46046,
+		"Option": "256",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46047,
+		"Option": "512",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46048,
+		"Option": "1024",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46049,
+		"Option": "2048",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227511,
+	"QuestionID": 11494,
+	"QuestionNo": 70,
+	"QuestionType": "Single Answer Question",
+	"Question": "Let < M > be the encoding of a Turing machine as a string over S = {0,1} . Let L = {<M> |M is a Turning machine that accepts a string of length 2014}. Then, L is",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46115",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46114,
+		"Option": "decidable and recursively enumerable",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46115,
+		"Option": "undecidable but recursively enumerable",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46116,
+		"Option": "undecidable and not recursively enumerable",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46117,
+		"Option": "decidable but not recursively enumerable",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227512,
+	"QuestionID": 11496,
+	"QuestionNo": 71,
+	"QuestionType": "Single Answer Question",
+	"Question": "Consider the C function given below\r\n int f(int j)\r\n{\r\nstatic int i = 50;\r\nint k;\r\nif (i == j)\r\n {\r\nprintf(“something”);\r\nk = f(i);\r\nreturn 0;\r\n}\r\nelse return 0;\r\n}\r\n Which one of the following is TRUE? \r\n",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46125",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46122,
+		"Option": "The function returns 0 for all values of j",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46123,
+		"Option": "The function prints the string something for all values of j",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46124,
+		"Option": "The function returns 0 when j = 50",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46125,
+		"Option": "The function will exhaust the runtime stack or run into an infinite loop when j = 50",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227513,
+	"QuestionID": 11514,
+	"QuestionNo": 72,
+	"QuestionType": "Single Answer Question",
+	"Question": "Consider the following statements \r\nI. The complement of every Turing decidable language is Turing decidable\r\nII. There exists some language which is in NP but is not turing decidable\r\nIII. If L is a language in NP, L is turing decidable\r\nWhich of the above statements is/are true?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46197",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46194,
+		"Option": "Only II",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46195,
+		"Option": "Only III",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46196,
+		"Option": "Only I and II",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46197,
+		"Option": "Only I and III",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227514,
+	"QuestionID": 11515,
+	"QuestionNo": 73,
+	"QuestionType": "Single Answer Question",
+	"Question": "The number of divisors of 2100 is _______.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46198",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46198,
+		"Option": "36",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46199,
+		"Option": "18",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46200,
+		"Option": "12",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46201,
+		"Option": "3",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227515,
+	"QuestionID": 11529,
+	"QuestionNo": 74,
+	"QuestionType": "Single Answer Question",
+	"Question": "A bit-stuffing based framing protocol uses an 8-bit delimiter pattern of 01111110. If the output bit-string after stuffing is 01111100101, then the input bit-string is",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46255",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46254,
+		"Option": "111110100",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46255,
+		"Option": "111110101",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46256,
+		"Option": "111111101",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46257,
+		"Option": "111111111",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227516,
+	"QuestionID": 11533,
+	"QuestionNo": 75,
+	"QuestionType": "Single Answer Question",
+	"Question": "Which one of the following problems is undecidable?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Computer Science",
+	"Topic": "General CSE",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "46270",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 46270,
+		"Option": "Deciding if a given context-free grammar is ambiguous",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46271,
+		"Option": "Deciding if a given string is generated by a given context-free grammar",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46272,
+		"Option": "Deciding if the language generated by a given context-free grammar is empty",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 46273,
+		"Option": "Deciding if the language generated by a given context-free grammar is finite",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227517,
+	"QuestionID": 17624,
+	"QuestionNo": 76,
+	"QuestionType": "Single Answer Question",
+	"Question": "Consider the following relational schemes for a library database:&#160;<div><br/></div><div>Book (Title, Author, Catalog_no, Publisher, Year, Price)&#160;</div><div>Collection (Title, Author, Catalog_no)&#160;</div><div><br/></div><div>within the following functional dependencies:<div><div>&#160;<b>I. Title Author --&gt; Catalog_no</b></div><div><b>II. Catalog_no --&gt; Title Author Publisher Year&#160;</b></div><div><b>III. Publisher Title Year --&gt; Price Assume {Author, Title} is the key for both schemes.&#160;</b></div><div><br/></div><div>Which of the following statements is true?</div></div></div>",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "DBMS",
+	"Topic": "Normal forms",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "68735",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 68733,
+		"Option": "Both Book and Collection are in BCNF",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 68734,
+		"Option": "Both Book and Collection are in 3NF only",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 68735,
+		"Option": "Book is in 2NF and Collection is in 3NF",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 68736,
+		"Option": "Both Book and Collection are in 2NF only",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227518,
+	"QuestionID": 17626,
+	"QuestionNo": 77,
+	"QuestionType": "Single Answer Question",
+	"Question": "Given the following two statements:<div><br/><div>&#160;<b>S1: Every table with two single-valued &#10;      attributes is in 1NF, 2NF, 3NF and BCNF.&#160;</b></div><div><b>&#160;S2: AB-&gt;C, D-&gt;E, E-&gt;C &#160;is a minimal cover for &#10;      the set of functional dependencies&#160;<span>&#160;AB-&gt;C, D-&gt;E, AB-&gt;E, E-&gt;C.&#160;</span></b></div><div><b></b><p><br/></p></div><div><span>&#160;Which one of the following is CORRECT?</span></div></div>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "DBMS",
+	"Topic": "Normal forms",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "68741",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 68741,
+		"Option": "S1 is TRUE and S2 is FALSE.",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 68742,
+		"Option": "Both S1 and S2 are TRUE.",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 68743,
+		"Option": "S1 is FALSE and S2 is TRUE.",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 68744,
+		"Option": "Both S1 and S2 are FALSE",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227519,
+	"QuestionID": 4607,
+	"QuestionNo": 78,
+	"QuestionType": "Single Answer Question",
+	"Question": "What is the output of this program?<br/><pre>&#160;#include&lt;iostream&gt;<br/>&#160;&#160;&#160; using namespace std;<br/>&#160;&#160;&#160; class X <br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int m;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; public:<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; X() : m(10)<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; {&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; X(int mm): m(mm)<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int getm()<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; return m;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }<br/>&#160;&#160;&#160; };<br/>&#160;&#160;&#160; class Y : public X <br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int n;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; public:<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; Y(int nn) : n(nn) {}&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int getn() { return n; }<br/>&#160;&#160;&#160; };<br/>&#160;&#160;&#160; int main()<br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; Y yobj( 100 );<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; cout &lt;&lt; yobj.getm() &lt;&lt; &#34; &#34; &lt;&lt; yobj.getn() &lt;&lt; endl;<br/>&#160;&#160;&#160; }<br/><br/></pre>",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "C++",
+	"Topic": "C++ Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "18210",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 18210,
+		"Option": "10 100",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18211,
+		"Option": "100 10",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18212,
+		"Option": "10 10",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18213,
+		"Option": "100 100",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227520,
+	"QuestionID": 4609,
+	"QuestionNo": 79,
+	"QuestionType": "Single Answer Question",
+	"Question": "What is the output of this program?<br/><pre>&#160;&#160;&#160; #include &lt;iostream&gt;<br/>&#160;&#160;&#160; #include &lt;string&gt;<br/>&#160;&#160;&#160; using namespace std;<br/>&#160;&#160;&#160; int main ()<br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; string str (&#34;microsoft&#34;);<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; string::reverse_iterator r;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; for (r = str.rbegin() ; r &lt; str.rend(); r++ )<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; cout &lt;&lt; *r;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; return 0;<br/>&#160;&#160;&#160; }<br/><br/></pre>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "C++",
+	"Topic": "C++ Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "18220",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 18218,
+		"Option": "microsoft",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18219,
+		"Option": "micro",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18220,
+		"Option": "tfosorcim",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18221,
+		"Option": "tfos",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227521,
+	"QuestionID": 4619,
+	"QuestionNo": 80,
+	"QuestionType": "Single Answer Question",
+	"Question": "What is the output of the following program?<br/><pre>&#160;&#160;&#160; #include &lt;iostream&gt;<br/>&#160;&#160;&#160; using namespace std;<br/>&#160;&#160;&#160; int f(int p, int q)<br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; if (p &gt; q)<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; return p;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; else<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; return q;<br/>&#160;&#160;&#160; }<br/>&#160;&#160;&#160; main()<br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int a = 5, b = 10;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int k;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; bool x = true;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; bool y = f(a, b);<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; k =((a * b) + (x + y));<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; cout &lt;&lt; k;<br/>&#160;&#160;&#160; }<br/><br/></pre>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "C++",
+	"Topic": "C++ Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "18260",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 18258,
+		"Option": "55",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18259,
+		"Option": "62",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18260,
+		"Option": "52",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18261,
+		"Option": "None",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227522,
+	"QuestionID": 4626,
+	"QuestionNo": 81,
+	"QuestionType": "Single Answer Question",
+	"Question": "<pre>What will be the output of the this program?<br/><br/>&#160;&#160;&#160; #include &lt;iostream&gt;<br/>&#160;&#160;&#160; using namespace std;<br/>&#160;&#160;&#160; int main ()<br/>&#160;&#160;&#160; {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int array[] = {0, 2, 4, 6, 7, 5, 3};<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; int n, result = 0;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; for (n = 0 ;n &lt; 8 ;n++) {<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; result += array[n];<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; cout &lt;&lt; result;<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160; return 0;<br/>&#160;&#160;&#160; }<br/><br/></pre>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "C++",
+	"Topic": "C++ Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "18288",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 18286,
+		"Option": "25",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18287,
+		"Option": "26",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18288,
+		"Option": "27",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 18289,
+		"Option": "None",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227523,
+	"QuestionID": 19359,
+	"QuestionNo": 82,
+	"QuestionType": "Single Answer Question",
+	"Question": "<p>What is the output of this program?</p><p><span>#include&#160;</span><br/></p><p>&#160; &#160;using namespace std;</p><p>&#160; &#160;template&#160;</p><p>&#160; &#160;class mysequence&#160;</p><p>&#160; &#160;{</p><p>&#160; &#160; &#160; &#160;T memblock [N];</p><p>&#160; &#160; &#160; &#160;public:</p><p>&#160; &#160; &#160; &#160;void setmember (int x, T value);</p><p>&#160; &#160; &#160; &#160;T getmember (int x);</p><p>&#160; &#160;};</p><p>&#160; &#160;template&#160;</p><p>&#160; &#160;void mysequence :: setmember (int x, T value)&#160;</p><p>&#160; &#160;{</p><p>&#160; &#160; &#160; &#160;memblock[x] = value;</p><p>&#160; &#160;}</p><p>&#160; &#160;template&#160;</p><p>&#160; &#160;T mysequence :: getmember (int x)&#160;</p><p>&#160; &#160;{</p><p>&#160; &#160; &#160; &#160;return memblock[x];</p><p>&#160; &#160;}</p><p>&#160; &#160;int main ()&#160;</p><p>&#160; &#160;{ &#160;</p><p>&#160; &#160; &#160; &#160;mysequence  myints;</p><p>&#160; &#160; &#160; &#160;mysequence  myfloats;</p><p>&#160; &#160; &#160; &#160;myints.setmember (0, 100);</p><p>&#160; &#160; &#160; &#160;myfloats.setmember (3, 3.1416);</p><p>&#160; &#160; &#160; &#160;cout &lt;&lt; myints.getmember(0) &lt;&lt; '\\n';</p><p>&#160; &#160; &#160; &#160;cout &lt;&lt; myfloats.getmember(3) &lt;&lt; '\\n';</p><p>&#160; &#160; &#160; &#160;return 0;</p><p>&#160; &#160;}</p>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "C++",
+	"Topic": "C++ Programming",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "75628",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 75625,
+		"Option": "100",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 75626,
+		"Option": "3.1416",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 75627,
+		"Option": "100<div>-3.1416</div>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 75628,
+		"Option": "100<div>3.1416</div>",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227524,
+	"QuestionID": 18002,
+	"QuestionNo": 83,
+	"QuestionType": "Single Answer Question",
+	"Question": "The following numbers are inserted into an empty binary search tree in the given order: 10, 1, 3, 5, 15, 12, 16. What is the height of the binary search tree (the height is the maximum distance of a leaf node from the root)?",
+	"StatusID": 2,
+	"Status": "Not Answered",
+	"Subject": "Data Structures",
+	"Topic": "Binary Search Tree",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70189",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70188,
+		"Option": "2",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70189,
+		"Option": "3",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70190,
+		"Option": "4",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70191,
+		"Option": "6",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227525,
+	"QuestionID": 18008,
+	"QuestionNo": 84,
+	"QuestionType": "Single Answer Question",
+	"Question": "What are the worst-case complexities of insertion and deletion of a key in a binary search tree?",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Data Structures",
+	"Topic": "Binary Search Tree",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70213",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70212,
+		"Option": "Θ(logn) for both insertion and deletion",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70213,
+		"Option": "Θ(n) for both insertion and deletion",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70214,
+		"Option": "Θ(n) for insertion and Θ(logn) for deletion",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70215,
+		"Option": "Θ(logn) for insertion and Θ(n) for deletion",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227526,
+	"QuestionID": 18009,
+	"QuestionNo": 85,
+	"QuestionType": "Single Answer Question",
+	"Question": "While inserting the elements 71, 65, 84, 69, 67, 83 in an empty binary search tree (BST) in the sequence shown, the element in the lowest level is",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Data Structures",
+	"Topic": "Binary Search Tree",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70217",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70216,
+		"Option": "65",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70217,
+		"Option": "67",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70218,
+		"Option": "69",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70219,
+		"Option": "83",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227527,
+	"QuestionID": 18166,
+	"QuestionNo": 86,
+	"QuestionType": "Single Answer Question",
+	"Question": "<p>What is the output of following program?</p><p><b><i></i></b></p><pre><p></p><p><b><i>#include &lt;iostream&gt;</i></b></p><p><span><b><i>void print(int n, int j)</i></b></span></p><p><b><i>{</i></b></p><p><b><i>&#160; &#160;if (j &gt;= n)</i></b></p><p><b><i>&#160; &#160; &#160; return;</i></b></p><p><b><i>&#160; &#160;if (n-j &gt; 0 &amp;&amp; n-j &gt;= j)</i></b></p><p><b><i>&#160; &#160; &#160; &#160;printf(&#34;%d %d\\n&#34;, j, n-j);</i></b></p><p><b><i>&#160; &#160;print(n, j+1);</i></b></p><p><b><i>}</i></b></p><p><b><i>&#160;</i></b><b><i>int main()</i></b></p><p><b><i>{</i></b></p><p><b><i>&#160; &#160; int n = 8;</i></b></p><p><b><i>&#160; &#160; print(n, 1);</i></b></p><p><b><i>} </i></b></p></pre><p></p>",
+	"StatusID": 3,
+	"Status": "Answered",
+	"Subject": "Algorithm",
+	"Topic": "Searching",
+	"SubTopic": "Default",
+	"Answer": "70832",
+	"Key": "70833",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70832,
+		"Option": "1 7&#160;<div>2 6&#160;</div><div>3 5&#160;</div><div>4 4&#160;</div><div>4 4&#10;</div>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": true
+	}, {
+		"OptionID": 70833,
+		"Option": "1 7&#160;<div>2 6&#160;</div><div>3 5&#160;</div><div>4 4&#10;</div>",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70834,
+		"Option": "1 7&#160;<div>2 6</div><div>3 5&#10;</div>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70835,
+		"Option": "1 2&#160;<div>3 4</div><div>5 6&#160;</div><div>7 8&#10;</div>",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227528,
+	"QuestionID": 18168,
+	"QuestionNo": 87,
+	"QuestionType": "Single Answer Question",
+	"Question": "Given a sorted array of integers, what can be the minimum worst case time complexity to find ceiling of a number x in given array? Ceiling of an element x is the smallest element present in array which is greater than or equal to x. Ceiling is not present if x is greater than the maximum element present in array. For example, if the given array is {12, 67, 90, 100, 300, 399} and x = 95, then output should be 100.\r\n",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Algorithm",
+	"Topic": "Searching",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70842",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70840,
+		"Option": "O(LogLogn)\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70841,
+		"Option": "O(n)\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70842,
+		"Option": "O(Logn)\r\n",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70843,
+		"Option": "O(Logn * Logn)\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227529,
+	"QuestionID": 18169,
+	"QuestionNo": 88,
+	"QuestionType": "Single Answer Question",
+	"Question": "Consider the following C program that attempts to locate an element x in an array Y[] using binary search. The program is erroneous.&#160;<pre><div><br/></div><p><b><i>&#160;f(int Y[10], int x)&#160;</i></b></p><p><b><i>{</i></b></p><p><b><i>&#160;int i, j, k;&#160;<span>i = 0; j = 9;</span></i></b></p><p><b><i>&#160;do</i></b></p><p><b><i>&#160;{</i></b></p><p><b><i>&#160;k =  (i + j) /2;</i></b></p><p><b><i>&#160;if( Y[k] &lt; x)  i = k; else j = k;</i></b></p><p><b><i>&#160;} while(Y[k] != x &amp;&amp; i &lt; j);</i></b></p><p><b><i>&#160;if(Y[k] == x) printf (&#34;x is in the array &#34;) ;</i></b></p><p><b><i>&#160;else printf (&#34; x is not in the array &#34;) ;</i></b></p><p><b><i>&#160;}</i></b></p><p>On which of the following contents of Y and x does the program fail?</p></pre>",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Algorithm",
+	"Topic": "Searching",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70846",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70844,
+		"Option": "Y is [1 2 3 4 5 6 7 8 9 10] and x < 10\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70845,
+		"Option": "Y is [1 3 5 7 9 11 13 15 17 19] and x < 1\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70846,
+		"Option": "Y is [2 2 2 2 2 2 2 2 2 2] and x > 2\r\n",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70847,
+		"Option": "Y is [2 4 6 8 10 12 14 16 18 20] and 2 < x < 20 and x is even\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227530,
+	"QuestionID": 18075,
+	"QuestionNo": 89,
+	"QuestionType": "Single Answer Question",
+	"Question": "Suppose we have a O(n) time algorithm that finds median of an unsorted array. Now consider a QuickSort implementation where we first find median using the above algorithm, then use median as pivot. What will be the worst case time complexity of this modified QuickSort.",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Algorithm",
+	"Topic": "Sorting",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70471",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70468,
+		"Option": "O(n^2 Logn)\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70469,
+		"Option": "O(n^2)\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70470,
+		"Option": "O(n Logn Logn)\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70471,
+		"Option": "O(nLogn)\r\n",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}, {
+	"StudentExamQuestionID": 5227531,
+	"QuestionID": 18080,
+	"QuestionNo": 90,
+	"QuestionType": "Single Answer Question",
+	"Question": "Which of the following is not true about comparison based sorting algorithms?\r\n",
+	"StatusID": 1,
+	"Status": "Unseen",
+	"Subject": "Algorithm",
+	"Topic": "Sorting",
+	"SubTopic": "Default",
+	"Answer": "",
+	"Key": "70491",
+	"PositiveMarks": 1.00,
+	"NegativeMarks": 0.00,
+	"TimeTaken": 0,
+	"AnswerStatus": 0,
+	"ObtainedMarks": 0.0,
+	"Options": [{
+		"OptionID": 70488,
+		"Option": "The minimum possible time complexity of a comparison based sorting algorithm is O(nLogn) for a random input array\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70489,
+		"Option": "Any comparison based sorting algorithm can be made stable by using position as a criteria when two elements are compared\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70490,
+		"Option": "Counting Sort is not a comparison based sorting algortihm\r\n",
+		"IsCorrect": false,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}, {
+		"OptionID": 70491,
+		"Option": "Heap Sort is not a comparison based sorting algorithm.\r\n",
+		"IsCorrect": true,
+		"QuestionID": 0,
+		"IsAnswered": false
+	}]
+}]
